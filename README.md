@@ -1,2 +1,2 @@
 # Car Rental_System
-# java opp project
+# java oops project
